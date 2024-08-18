@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Decodificador e Codificador</title>
+    <link rel="stylesheet" href="estilo/style.css">
+    <link rel="shortcut icon" href="imagens/tulipas.png" type="image/x-icon">
+</head>
+<body>
+    
+    <main class="main container">
+        <header class="cabecalho">
+            <img src="imagens/logoAlura.png" alt="Logo Alura">
+            <h1>Mensagem Codificada</h1>
+        </header>
+
+    <div class="container-input">
+        <div class="input">
+            <textarea id="input-texto" placeholder="Digite seu texto aqui..."></textarea>
+            <p>* Apenas letras minúsculas e sem acento.</p>
+        </div>
+        <div id="output">
+            <img src="imagens/sabiá.png" alt="pássaro sabiá">
+            <h2>Mensagem.</h2>
+            <span id="textoacopiar">Digite um texto que deseja criptografar ou decriptografar.</span>
+        </div>
+    </div>
+
+    <div class="buttons">
+        <div class="container-btn">
+            <button onclick="criptografar()" class="btn-criptografar">Criptografar</button>
+            <button onclick="descriptografar()" class="btn-descriptografar">Descriptografar</button>
+        </div>
+    </div>
+    </main>
+
+    <footer class="rodape">
+        <div class="icons">
+            <a href=""><ion-icon name="logo-github"></ion-icon></a>
+            <a href=""><ion-icon name="logo-linkedin"></ion-icon></a>
+        </div>
+        <h3>Desenvolvido por Cátia Ribeiro</h3>
+    </footer>
+
+        <script src="interacao/script.js"></script>
+        <script type="módulo" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script> 
+        <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    </body>
+    </html>
