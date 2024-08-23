@@ -1,8 +1,8 @@
 # Decodificador de Texto
 
+Um projeto para o Challenge One da Alura turma T7, ele permite criptografar e descriptogrfar textos usando substituições de caracteres. 
 
-
-  # Técnologias utilizadas
+ # Técnologias utilizadas
   . HTML
   . CSS
   . JAVASCRIPT
@@ -25,3 +25,4 @@
    Por exemplo:
   "gato" => "gaitober"
   "gaitober" => "gato"
+
