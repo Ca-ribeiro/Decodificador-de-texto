@@ -26,6 +26,8 @@ Um projeto para o Challenge One da Alura turma T7, ele permite criptografar e de
   "gato" => "gaitober"
   "gaitober" => "gato"
 
- # Qual é a nossa mensagem secreta!
+ # Qual é a nossa mensagem secreta?
 
-"pairaibenterns poberr enterncairair enterssenter dentersaifimesober enter tenterr fimesnailimeszaidober enterlenter coberm sufatcenterssober!"
+* "pairaibenterns poberr enterncairair enterssenter dentersaifimesober enter tenterr fimesnailimeszaidober enterlenter coberm sufatcenterssober!"
+
+* "parabens por encarar esse desafio e ter finalizado ele com sucesso!"
