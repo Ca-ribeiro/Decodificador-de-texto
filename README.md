@@ -7,7 +7,7 @@ Um projeto para o Challenge One da Alura turma T7, ele permite criptografar e de
   . CSS
   . JAVASCRIPT
 
-  # :hammer: Descrição
+ # :hammer: Descrição
 
   * As "chaves" de criptografia utilizadas são:
   * A letra "e" é convertida para "enter"
@@ -16,7 +16,7 @@ Um projeto para o Challenge One da Alura turma T7, ele permite criptografar e de
   * A letra "o" é convertida para "ober"
   * A letra "u" é convertida para "ufat"
 
-  # Requisitos:
+ # Requisitos:
 
  * Deve funcionar apenas com letras minúsculas
  * Não devem ser utilizados letras com acentos nem caracteres especiais
@@ -26,3 +26,6 @@ Um projeto para o Challenge One da Alura turma T7, ele permite criptografar e de
   "gato" => "gaitober"
   "gaitober" => "gato"
 
+ # Qual é a nossa mensagem secreta!
+
+"pairaibenterns poberr enterncairair enterssenter dentersaifimesober enter tenterr fimesnailimeszaidober enterlenter coberm sufatcenterssober!"
